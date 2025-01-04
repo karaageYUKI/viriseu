@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: google-ishimori-youtoub
+    name: google-dottkiri-virus
     env: python
     region: Oregon
     plan: free
